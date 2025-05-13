@@ -15,15 +15,20 @@ is_student = True
 
 # 2. Print each variable along with its data type using the type() function
 
+
+# output prints <class 'int'>
 age = 25
 print(type(age))
 
+# output prints <class 'float'>
 height = 5.9
 print(type(height))
 
+# output prints <class 'string'>
 name = "oluwatobi"
 print(type(name))
 
+# output prints <class 'bool'>
 is_student = True
 print(type(is_student))
 
